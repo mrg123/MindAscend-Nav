@@ -53,7 +53,39 @@ The App **does not** collect:
 
 ---
 
-## **5. Data Deletion**
+## **5. Subscription Services and Payment Information**
+### **5.1 Subscription Types**
+The App offers the following subscription services:
+- **Monthly Subscription**: Auto-renewal at $3.99 per month, can be cancelled at any time
+- **Lifetime Subscription**: One-time payment of $9.99, permanently unlocks all features
+
+### **5.2 Payment Processing**
+- All payment transactions are processed through Apple App Store
+- We do not directly collect or store your payment information
+- Payment data is securely handled by Apple, following PCI DSS standards
+- Subscription management is conducted through your Apple ID account
+
+### **5.3 Auto-Renewal Description**
+- Monthly subscriptions will auto-renew 24 hours before the end of each billing cycle
+- Unless auto-renewal is turned off at least 24 hours before the end of the current subscription period
+- You can manage or cancel subscriptions in iPhone Settings > Apple ID > Subscriptions
+- After cancellation, you can still use paid features until the current billing cycle ends
+
+### **5.4 Subscription Data Processing**
+- We only receive subscription status information (valid/invalid) provided by Apple
+- We do not collect specific payment methods or financial information
+- Subscription status is used to unlock premium features within the app
+- All subscription-related data complies with Apple's privacy standards
+
+### **5.5 Refund Policy**
+- Refund requests must be processed through Apple App Store
+- Please apply for refunds in iPhone Settings > Apple ID > Media & Purchases > View Account > Purchase History
+- Or visit reportaproblem.apple.com to submit a refund request
+- We cannot directly process refunds but will cooperate with Apple's refund review process
+
+---
+
+## **6. Data Deletion**
 - Uninstalling the app automatically deletes all locally stored data
 - Users can manually clear learning records in app settings
 - Deletion operations are irreversible, please proceed with caution

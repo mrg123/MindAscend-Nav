@@ -25,6 +25,38 @@ Cognitive Enhancement Application
 ### ⚙️ Personalized Settings
 - **Local Data Storage**: Protect user privacy with local-only data storage
 
+### 💎 Subscription Services
+
+**MindAscend** offers flexible subscription options to meet different users' learning needs:
+
+#### 📅 Monthly Subscription - Cognitive Enhancement
+- **Price**: $3.99/month 
+- **Duration**: 1-month auto-renewal
+- **Featured Tag**: Popular Choice
+- **Included Features**:
+  - Unlock all category content
+  - Monthly new card updates
+  - Personalized learning recommendations
+  - Priority customer support
+- **Note**: Auto-renews monthly, can be cancelled anytime in settings
+
+#### ♾️ Lifetime Subscription - Lifelong Learning Plan
+- **Price**: $9.99
+- **Duration**: Permanent use
+- **Featured Tag**: Best Value
+- **Included Features**:
+  - Includes all monthly subscription services
+  - Permanently unlock all content
+  - Lifetime free updates
+  - Unlimited usage
+- **Note**: One-time payment, permanently unlocks all features
+
+#### Subscription Management
+- **Cancel Subscription**: Can be managed in iPhone Settings > Apple ID > Subscriptions
+- **Auto-Renewal**: Monthly subscriptions will auto-renew, can be cancelled anytime
+- **Data Protection**: Subscription information is strictly confidential, complies with privacy policy requirements
+- **Customer Support**: Subscription-related issues can contact customer service for priority handling
+
 ## Technical Architecture
 
 ### Development Tech Stack
